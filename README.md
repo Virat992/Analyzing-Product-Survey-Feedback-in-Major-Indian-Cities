@@ -1,4 +1,4 @@
-# Analyzing Feedback for F&B Marketing Insights
+# Food & Beverage Marketing Insights with SQL & Power BI
 ## by Virat Gajjar
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐮𝐦𝐦𝐚𝐫𝐲:
 
