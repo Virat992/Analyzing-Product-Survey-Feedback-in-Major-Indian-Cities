@@ -25,3 +25,5 @@
 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐌𝐚𝐠𝐢𝐜: Brought data to life using PowerBI's interactive dashboards and visualizations. the marketing team can now see insights at a glance.
 
 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬: Presented actionable insights such as customer demographics, marketing channels performance, consumer preferences and market competition analysis. These insights will empower our marketing team to make informed decisions. 
+
+Video Presentation Link : https://youtu.be/WOeeKwtUOeE
