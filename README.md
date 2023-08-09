@@ -1,7 +1,8 @@
-# Marketing_Insights_SQL
+# Analyzing Feedback for F&B Marketing Insights
+## by Virat Gajjar
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐮𝐦𝐦𝐚𝐫𝐲:
 
-🔍 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: My project aimed to analyze product survey feedback from 10 major Indian cities for 𝐂𝐎𝐃𝐄𝐗(𝐄𝐧𝐞𝐫𝐠𝐲 𝐃𝐫𝐢𝐧𝐤), a German food and beverage company. The goal was to extract insights for the marketing team to make informed decisions and strategies for the Indian market. 🎯
+𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: My project aimed to analyze product survey feedback from 10 major Indian cities for 𝐂𝐎𝐃𝐄𝐗(𝐄𝐧𝐞𝐫𝐠𝐲 𝐃𝐫𝐢𝐧𝐤), a German food and beverage company. The goal was to extract insights for the marketing team to make informed decisions and strategies for the Indian market. 🎯
 
 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞: Crafting data-driven strategies for our food and beverage company to stay ahead in the competitive market. 📊
 
