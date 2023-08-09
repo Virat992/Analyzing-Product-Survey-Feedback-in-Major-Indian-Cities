@@ -8,8 +8,11 @@
 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝: MySQL, PowerBI, Canva, Zoom
 
 · 𝐌𝐲𝐒𝐐𝐋 - Concepts like Joins, CTEs, Subqueries, Aggregate Functions, etc.
+
 · 𝐏𝐨𝐰𝐞𝐫𝐁𝐈 - Power query editor and visuals like Bar Chart, Line Chart, Maps, Donut Chart, etc.
+
 · 𝐂𝐚𝐧𝐯𝐚 - Presentation creation, themes, color correction, image editing, etc.
+
 · 𝐙𝐨𝐨𝐦 - Screen recording. 
 
 𝐖𝐡𝐚𝐭 𝐈'𝐯𝐞 𝐃𝐨𝐧𝐞:
